@@ -1,0 +1,10 @@
+{
+  "name": "tapify",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "through2": "^2.0.1"
+  },
+  "author": "Pedram Emrouznejad (https://github.com/pemrouz)",
+  "license": "pemrouz.mit-license.org"
+}
